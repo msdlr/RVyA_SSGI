@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Assets from the bazar
+Content/AncientTreasures
+Content/BattleWizardPolyart
+Content/FreeFurniturePack
